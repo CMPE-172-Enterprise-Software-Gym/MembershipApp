@@ -12,12 +12,12 @@ Gym Membership app is a subscription service web application that is connected t
 https://github.com/CMPE-172-Enterprise-Software-Gym/MembershipApp/issues/2#issue-613031081
 
 ## Pre-requisites:
-MySql workbench
-Springboot
-AWS account
-Docker
-Eclipse
-AWS Toolkit for Eclipse
+* MySql workbench
+* Springboot
+* AWS account
+* Docker
+* Eclipse
+* AWS Toolkit for Eclipse
 
 
 ## Installation
