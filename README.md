@@ -26,7 +26,21 @@ Download the zip file and import onto Eclipse. On AWS create an RDS database ins
 ## Schema and REST API screenshot
 https://github.com/CMPE-172-Enterprise-Software-Gym/MembershipApp/issues/1#issue-613028601
 
+## Docker
 
+Use the dockerfile for the docker setup. Run this command below to build the project with the dockerfile where springboot is located.
 
+ docker build -t myorg/myapp .
+ 
+ Then, run this command below to run the springboot application containerized in docker:
+ 
+ docker run -p 8080:8080 myorg/myapp
+ 
+ The application will now run on localhost:8080 inside of docker.
+ Since the application has now been containerized, we can now upload the project to dockerhub and deploy it to any system including the aws system.
+ 
+ Screenshot of docker running springboot application:
+ 
+ 
 
 	
