@@ -1,9 +1,9 @@
 # Gym Membership Web App
 
 ## Authors
-San Jose State University
-Course: EnterpriseSoftware-CMPE172/Spring2020
-Team Members: Gerardo Garcia, Benny Ooi, Trevor O'Neil
+* San Jose State University
+* Course: EnterpriseSoftware-CMPE172/Spring2020
+* Team Members: Gerardo Garcia, Benny Ooi, Trevor O'Neil
 
 ## Project Description
 Gym Membership app is a subscription service web application that is connected to the AWS cloud.
