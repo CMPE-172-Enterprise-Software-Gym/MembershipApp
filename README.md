@@ -41,6 +41,6 @@ Use the dockerfile for the docker setup. Run this command below to build the pro
  
  Screenshot of docker running springboot application:
  
- 
+ https://github.com/CMPE-172-Enterprise-Software-Gym/MembershipApp/blob/master/WebContent/images/docker_springboot_screenshot.PNG
 
 	
